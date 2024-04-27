@@ -1,0 +1,19 @@
+{
+  "name": "module3day6",
+  "version": "1.0.0",
+  "description": "command todo application with all the features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'we really need to add some testing!!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Focusedplumes/module3day6.git"
+  },
+  "author": "Michael Boden <michaelb001@pm.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Focusedplumes/module3day6/issues"
+  },
+  "homepage": "https://github.com/Focusedplumes/module3day6#readme"
+}
