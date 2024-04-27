@@ -6,7 +6,7 @@
 ## do npm init as part of workflow??, see package.json
 
 ## npm test to run my test script. i can co in the package.json to rename it after the fact. Use a comma to do multiple scripts and single quotes to wrap them in. 
-## the test script here is echo "'put words here'"
+## the test script here is echo 
 
 ## npm run to show all the list of scripts i may have set up. 
 
@@ -15,5 +15,5 @@
 ## better to run a module than write code ourselves. so is std to see bunch of dependencies
 
 
-## tihs is an async calls application
+## this is an async calls application
 ## Best Practice to use single quotes for values!! In JSON files too.
