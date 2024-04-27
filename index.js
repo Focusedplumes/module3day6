@@ -6,11 +6,11 @@ const main = async () => { //defined main as an async function
       type: 'text',
       name: 'value',
       message: 'What is your next todo item?',
-
     });
-  };
+  
+   };
 
-  let todo = await nextToDo();
+  let message = await nextToDo();
   console.log(message);
 };
 
