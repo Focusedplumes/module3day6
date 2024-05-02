@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/Focusedplumes/module3day6.git"
   },
   "author": "Michael Boden <michaelb001@pm.me>",
