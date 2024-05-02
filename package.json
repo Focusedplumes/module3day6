@@ -3,12 +3,13 @@
   "version": "1.0.0",
   "description": "command todo application with all the features",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo 'we really need to add some testing!!'",
     "start": "node index.js"
   },
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "git+https://github.com/Focusedplumes/module3day6.git"
   },
   "author": "Michael Boden <michaelb001@pm.me>",

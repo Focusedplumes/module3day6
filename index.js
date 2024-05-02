@@ -1,4 +1,5 @@
 import prompts from 'prompts';
+
 let todoList =[];
 
 const main = async () => { //defined main as an async function
@@ -17,7 +18,7 @@ const main = async () => { //defined main as an async function
   };
 
 const addTodo = async() => {
-  return await prompts( {
+  return await prompts({
     type: 'text',
     name: 'value',
     message: 'What is your new todo item?'
