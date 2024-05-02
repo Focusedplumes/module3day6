@@ -5,6 +5,8 @@
 ## STEPS FOR OUT BASIC APPLICATION SETUP -- OUR TODO LIST USING COMMAND LINE PROMPT APPLICATION
 ## do npm init as part of workflow??, see package.json
 
+## repository, then type, change it to module.
+
 ## npm test to run my test script. i can co in the package.json to rename it after the fact. Use a comma to do multiple scripts and single quotes to wrap them in. 
 ## the test script here is echo 
 
